@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mahendra-95
+- 👀 I’m interested in Machine Learning and Prediction Models
+- 🌱 I’m currently learning Python focussing on Data Analytics
+- 📫 How to reach me ... mahendra.sharma9@outlook.com
