@@ -4,4 +4,3 @@
 - Linear Regression Model and XGBOOST are used in this prediction model
 - MAE and MSE are less than 5 percent.
 - Renewable energy communities prototype is created using the historical data.
-- 
